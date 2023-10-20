@@ -4,3 +4,47 @@
     box-sizing: border-box;
 }
 
+.container{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(127, 204, 255);
+    display: flex;
+    align-items: center;
+}
+
+.left-column{
+    background-color: rgb(255, 187, 0);
+    height: 30px;
+    width: 20%;
+    margin-left: 180px;
+    border: dotted black;
+    
+}
+
+.center-column{
+    background-color: rgb(255, 187, 0);
+    height: 30px;
+    width: 40%;
+    border: dotted black;
+}
+
+.right-column{
+    background-color: rgb(255, 187, 0);
+    height: 30px;
+    width: 20%;
+    border: dotted black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li{
+   margin: 0 10px; 
+}
+
+
