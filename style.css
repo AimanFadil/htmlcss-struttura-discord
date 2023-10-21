@@ -131,3 +131,27 @@ li{
     width: 1200px;
 
 }
+
+
+.container6{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(19, 18, 18);
+    display: flex;
+    align-items: center;
+}
+
+.pinkleft-column{
+    background-color: rgb(233, 140, 156);
+    border: dotted black;
+    height: 550px;
+    width: 350px;
+    margin-left: 310px;
+}
+
+.bluelittle-column{
+    background-color: rgb(68, 198, 202);
+    border: dotted black;
+    height: 550px;
+    width: 213px;
+}
