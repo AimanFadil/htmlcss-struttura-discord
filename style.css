@@ -129,7 +129,6 @@ li{
     border: dotted black;
     background-color: green;
     width: 1200px;
-
 }
 
 
@@ -174,8 +173,6 @@ li{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-    
 }
 
 .footlogo{
