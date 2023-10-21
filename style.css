@@ -143,7 +143,7 @@ li{
 
 .pinkleft-column{
     background-color: rgb(233, 140, 156);
-    border: dotted black;
+    border: dotted rgb(0, 0, 0);
     height: 550px;
     width: 350px;
     margin-left: 310px;
@@ -151,7 +151,7 @@ li{
 
 .bluelittle-column{
     background-color: rgb(68, 198, 202);
-    border: dotted black;
+    border: dotted rgb(255, 255, 255);
     height: 550px;
     width: 213px;
 }
